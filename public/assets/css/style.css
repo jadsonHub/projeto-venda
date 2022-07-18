@@ -1,0 +1,56 @@
+.img-carrousel{
+
+    height: 500px; 
+    width: 600px;
+}
+.img-perfil{
+    height: 200px;
+    width: 200px;
+    
+}
+input[type="file"] {
+    display: none;
+}
+.btn-img-perfil{
+    padding: 10px 10px;
+    width: 200px;
+    color: #FFF;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+    display: inline-flex;
+}
+.nav-css{
+    background-color:#B22222;
+}
+.footer-css{
+    margin-top: 150px;
+    background-color:#B22222;
+}
+.footer-sombra{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.login-conect{
+    margin-top: 100px;
+}
+.login-div{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.card-login{
+    width: 30rem;
+}
+.btn-login{
+    background-color: red;
+
+}
+.btn-login:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+    background-color: red;
+}
+.a-link:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+    background-color: red;
+}

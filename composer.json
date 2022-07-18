@@ -1,0 +1,25 @@
+{
+    "name": "prog/avalicao",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "app/helpers/mensagem/mensagem.php",
+            "app/helpers/validacao/validacao.php",
+            "app/helpers/session/session.php",
+            "app/helpers/database/functionUser.php",
+            "app/helpers/user/login.php",
+            "app/helpers/user/produtos.php"
+        ],
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "jadsonHub",
+            "email": "jadsoneduardo6@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
